@@ -1,0 +1,21 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"CSScomb",
+		"DocBlockr",
+		"Git",
+		"GitGutter",
+		"GitGutter-Edge",
+		"LESS",
+		"Package Control",
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
+		"SublimeLinter-pyflakes",
+		"Theme - Brogrammer",
+		"TrailingSpaces"
+	]
+}
