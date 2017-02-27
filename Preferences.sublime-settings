@@ -1,30 +1,73 @@
 {
-  "auto_complete"            : false,
-  "auto_complete_with_fields": false,
-  "auto_complete_triggers":
-  [
-    {
-    }
-  ],
-  "color_scheme"             : "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
-  "detect_indentation": false,
-  "detect_slow_plugins": false,
-  "font_face"                : "Monaco",
-  "font_options":
-  [
-    "subpixel_antialias"
-  ],
-  "font_size"                : 18,
-  "highlight_line": true,
-  "ignored_packages"     :
-  [
-    "Vintage",
-    "Sublimerge Pro",
-    "RestructuredText"
-  ],
-  "shift_tab_unindent"       : true,
-  "tab_completion"           : false,
-  "tab_size"                 : 2,
-  "theme"                    : "Brogrammer.sublime-theme",
-  "translate_tabs_to_spaces" : true
+	"auto_find_in_selection": true,
+	"binary_file_patterns":
+	[
+		"*.jpg",
+		"*.jpeg",
+		"*.png",
+		"*.gif",
+		"*.ttf",
+		"*.tga",
+		"*.dds",
+		"*.ico",
+		"*.eot",
+		"*.pdf",
+		"*.swf",
+		"*.jar",
+		"*.zip",
+		"browserify-cache.json"
+	],
+	"bold_folder_labels": true,
+	"caret_extra_bottom": 3,
+	"caret_extra_top": 3,
+	"caret_extra_width": 2,
+	"color_scheme": "Packages/User/SublimeLinter/Asphalt (SL).tmTheme",
+	"detect_indentation": false,
+	"detect_slow_plugins": true,
+	"ensure_newline_at_eof_on_save": true,
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		"node_modules",
+		"ci",
+		"run"
+	],
+	"font_face": "Monofur",
+	"font_options":
+	[
+		"subpixel_antialias"
+	],
+	"font_size": 13,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"ApplySyntax",
+		"Babel Snippets",
+		"Color Highlighter",
+		"FlowIDE",
+		"RestructuredText",
+		"SublimeCodeIntel",
+		"Vintage"
+	],
+	"match_brackets_angle": true,
+	"material_theme_accent_brba": false,
+	"material_theme_accent_lime": false,
+	"material_theme_accent_orange": true,
+	"material_theme_accent_pink": true,
+	"material_theme_accent_tomato": true,
+	"material_theme_compact_panel": true,
+	"material_theme_compact_sidebar": true,
+	"material_theme_contrast_mode": false,
+	"material_theme_small_statusbar": true,
+	"material_theme_small_tab": true,
+	"overlay_scroll_bars": "enabled",
+	"shift_tab_unindent": true,
+	"tab_size": 2,
+	"theme": "Material-Theme.sublime-theme",
+	"theme_accent_pink": true,
+	"translate_tabs_to_spaces": true
 }
